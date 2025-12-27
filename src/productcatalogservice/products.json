@@ -1,0 +1,112 @@
+{
+  "products": [
+    {
+      "id": "MDXOXI001",
+      "name": "Oximetro de pulso Pro",
+      "description": "Medicion SpO2 y ritmo cardiaco en segundos. Integracion automatica con MediCloudX Health para historial y alertas. Envio gratis. Certificacion FDA.",
+      "picture": "/static/img/products/oximeter-pro.png",
+      "priceUsd": {
+        "currencyCode": "USD",
+        "units": 39,
+        "nanos": 990000000
+      },
+      "categories": ["diagnostico", "monitorizacion"]
+    },
+    {
+      "id": "MDXGLU002",
+      "name": "Glucometro Smart BT",
+      "description": "Lecturas rapidas de glucosa con tiras reactivas. Sync via Bluetooth con MediCloudX Health. Recordatorios y reportes exportables. Envio gratis.",
+      "picture": "/static/img/products/glucometer-smart-bt.png",
+      "priceUsd": {
+        "currencyCode": "USD",
+        "units": 49,
+        "nanos": 990000000
+      },
+      "categories": ["diagnostico", "diabetes", "monitorizacion"]
+    },
+    {
+      "id": "MDXBP003",
+      "name": "Tensiometro digital de brazo",
+      "description": "Medicion precisa de presion arterial y pulso con deteccion de arritmia. Auto-upload a MediCloudX Health. Certificacion FDA. Envio gratis.",
+      "picture": "/static/img/products/bp-monitor-arm.png",
+      "priceUsd": {
+        "currencyCode": "USD",
+        "units": 64,
+        "nanos": 990000000
+      },
+      "categories": ["monitorizacion", "cardiologia"]
+    },
+    {
+      "id": "MDXECG004",
+      "name": "ECG portatil 6-leads",
+      "description": "Registro ECG de 30s a 5min, exporta PDF para telemedicina. Integracion directa con MediCloudX Health para revision clinica. Envio gratis.",
+      "picture": "/static/img/products/portable-ecg-6l.png",
+      "priceUsd": {
+        "currencyCode": "USD",
+        "units": 119,
+        "nanos": 990000000
+      },
+      "categories": ["cardiologia", "diagnostico"]
+    },
+    {
+      "id": "MDXKIT005",
+      "name": "Kit de pruebas rapidas multiuso",
+      "description": "Pack mixto para antígeno respiratorio y marcadores basicos. Resultados en minutos. Registro de resultados en MediCloudX Health.",
+      "picture": "/static/img/products/rapid-test-kit.png",
+      "priceUsd": {
+        "currencyCode": "USD",
+        "units": 29,
+        "nanos": 990000000
+      },
+      "categories": ["diagnostico"]
+    },
+    {
+      "id": "MDXTHM006",
+      "name": "Termometro infrarrojo sin contacto",
+      "description": "Medicion rapida y precisa, memoria de lecturas y modo superficies. Sincronizacion opcional con MediCloudX Health.",
+      "picture": "/static/img/products/ir-thermometer.png",
+      "priceUsd": {
+        "currencyCode": "USD",
+        "units": 24,
+        "nanos": 990000000
+      },
+      "categories": ["monitorizacion", "hogar"]
+    },
+    {
+      "id": "MDXNEB007",
+      "name": "Nebulizador ultrasonico portable",
+      "description": "Nebulizacion silenciosa con doble velocidad. Ideal para terapia respiratoria en casa. Registro de sesiones en MediCloudX Health.",
+      "picture": "/static/img/products/ultrasonic-nebulizer.png",
+      "priceUsd": {
+        "currencyCode": "USD",
+        "units": 54,
+        "nanos": 990000000
+      },
+      "categories": ["respiratorio", "hogar"]
+    },
+    {
+      "id": "MDXPED008",
+      "name": "Tensiometro pediatrico con 3 brazaletes",
+      "description": "Brazaletes para diferentes tallas infantiles. Promedio de lecturas y exporte a MediCloudX Health. Envio gratis.",
+      "picture": "/static/img/products/pediatric-bp.png",
+      "priceUsd": {
+        "currencyCode": "USD",
+        "units": 69,
+        "nanos": 990000000
+      },
+      "categories": ["monitorizacion", "pediatria"]
+    },
+    {
+      "id": "MDXHOL009",
+      "name": "Monitor Holter tipo parche 24h",
+      "description": "Parche ligero para monitoreo continuo de ritmo cardiaco. Dashboard en MediCloudX Health para correlacion de eventos. Uso supervisado.",
+      "picture": "/static/img/products/holter-patch.png",
+      "priceUsd": {
+        "currencyCode": "USD",
+        "units": 149,
+        "nanos": 990000000
+      },
+      "categories": ["cardiologia", "monitorizacion"]
+    }
+  ]
+}
