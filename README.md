@@ -9,7 +9,13 @@
 > 
 > **Based on:** [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) with security modifications for educational purposes.
 
-![Continuous Integration](https://github.com/Spartan-Cybersecurity/HackTheCloud25-gcp/workflows/Continuous%20Integration%20-%20Main/Release/badge.svg)
+---
+
+**🏆 HackTheCloud 25 Challenge**
+
+This project is part of the main challenge of **HackTheCloud 25**, organized by the **Cloud Security Space**. Explore all challenges and resources at the main repository: [Spartan-Cybersecurity/HackTheCloud25](https://github.com/Spartan-Cybersecurity/HackTheCloud25)
+
+---
 
 **MediCloudX Store** is a cloud-first microservices demo application modified for cybersecurity training.  The application is a
 web-based e-commerce app where users can browse items, add them to the cart, and purchase them - **with intentional security flaws for educational exploitation**.
@@ -61,8 +67,8 @@ Find **Protocol Buffers Descriptions** at the [`./protos` directory](/protos).
 2. Clone the latest major version.
 
    ```sh
-   git clone --depth 1 --branch v0 https://github.com/ekocloudsec/gcp-ctf-25.git
-   cd gcp-ctf-25/
+   git clone --depth 1 --branch v0 https://github.com/Spartan-Cybersecurity/HackTheCloud25-gcp.git
+   cd HackTheCloud25-gcp/
    ```
 
    The `--depth 1` argument skips downloading git history.
